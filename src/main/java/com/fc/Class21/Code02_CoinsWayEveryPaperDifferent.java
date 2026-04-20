@@ -2,7 +2,7 @@ package com.fc.Class21;
 
 public class Code02_CoinsWayEveryPaperDifferent {
     /**
-     * 给定一个货币数组arr，其中的值都是数组。再给定一个正数aim，
+     * 给定一个货币数组arr，其中的值都是正数。再给定一个正数aim，
      * 要求返回组成aim的方法数。
      * 注意：即使是值相同的货币也认为每一张是不同的
      * eg：arr = {1,1,1}, aim = 2
